@@ -363,6 +363,6 @@ fclose($ac1);} ?>
         x.type = "password";
     }
 }
-</script>
-</body>
-</html>
+</ komut dosyası >
+<    / kol >m_muh
+<   
